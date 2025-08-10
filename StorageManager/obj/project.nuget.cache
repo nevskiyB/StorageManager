@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zqUKE0EpZAo=",
+  "dgSpecHash": "E9brlu4m4dY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\stuff\\program\\projects\\testWorks\\StorageManager\\StorageManager\\StorageManager\\StorageManager.csproj",
+  "projectFilePath": "/workspaces/StorageManager/StorageManager/StorageManager.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "/home/vscode/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }
