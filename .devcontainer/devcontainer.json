@@ -4,7 +4,12 @@
     "name": "C# (.NET) and PostgreSQL",
     "dockerComposeFile": "docker-compose.yml",
     "service": "storage-manager-backend",
-    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"remoteUser": "vscode",
+	"runArgs": ["--env", "SSH_AUTH_SOCK=/ssh-agent"],
+	"mounts": [
+	"source=//./pipe/openssh-ssh-agent,target=/ssh-agent,type=pipe"
+	]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
