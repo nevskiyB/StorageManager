@@ -1,0 +1,2 @@
+# StorageManager
+Warehouse management application
